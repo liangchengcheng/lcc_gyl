@@ -3,7 +3,6 @@ package com.lcc.gyl.base.service.impl;
 import java.io.Serializable;
 import java.util.Collection;
 import java.util.Set;
-
 import com.lcc.gyl.base.dao.BaseDao;
 import com.lcc.gyl.base.service.BaseService;
 import com.lcc.gyl.query.BaseQuery;
